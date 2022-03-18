@@ -4,7 +4,7 @@ local TAB_WIDTH = 4
 bo.tabstop = TAB_WIDTH
 bo.shiftwidth = TAB_WIDTH
 bo.expandtab = true
-
+vim.cmd([[set shiftwidth=4]])
 -- utf8
 vim.g.encoding = "UTF-8"
 vim.o.fileencoding = 'utf-8'

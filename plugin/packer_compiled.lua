@@ -139,6 +139,11 @@ _G.packer_plugins = {
     path = "/home/liudaye/.local/share/nvim/site/pack/packer/start/nvim-lspfuzzy",
     url = "https://github.com/ojroques/nvim-lspfuzzy"
   },
+  ["nvim-tree.lua"] = {
+    loaded = true,
+    path = "/home/liudaye/.local/share/nvim/site/pack/packer/start/nvim-tree.lua",
+    url = "https://github.com/kyazdani42/nvim-tree.lua"
+  },
   ["nvim-treesitter"] = {
     loaded = true,
     path = "/home/liudaye/.local/share/nvim/site/pack/packer/start/nvim-treesitter",
